@@ -8004,3 +8004,4 @@ Orandi Harris
 - [Rafael Gerônimo](https://github.com/rafaelgeronimo)
 - [Arun Babu Subramaniam](https://github.com/arunbabusubramaniam)
 - [Andrew Wijaya](https://github.com/andrewdudu)
+- [Henry Tanjaya](https://github.com/henrytanjaya)
